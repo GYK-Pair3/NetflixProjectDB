@@ -83,5 +83,5 @@ Once the server is running, you can access:
 - Zeynep Öktem Kaygusuz
 - Feyza Nur Özdemir
 - Aslı Asutay
-- Ayşe Nurefşan Gültekin
-- Mine Emektar
+- Eslem Gök
+

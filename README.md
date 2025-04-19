@@ -75,6 +75,13 @@ Once the server is running, you can access:
    - Filters out already watched content
    - Sorts recommendations by rating
 
-## Contributing
+## Contributers
 
-Feel free to submit issues and enhancement requests. 
+
+Elif Kutlu
+Zeynep Öktem Kaygusuz
+Feyza Nur Özdemir
+Fatma Elik
+Aslı Asutay
+Ayşe Nurefşan Gültekin
+Mine Emektar

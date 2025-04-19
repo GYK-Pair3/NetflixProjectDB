@@ -78,10 +78,10 @@ Once the server is running, you can access:
 ## Contributers
 
 
-Elif Kutlu
-Zeynep Öktem Kaygusuz
-Feyza Nur Özdemir
-Fatma Elik
-Aslı Asutay
-Ayşe Nurefşan Gültekin
-Mine Emektar
+- Fatma Elik
+- Elif Kutlu
+- Zeynep Öktem Kaygusuz
+- Feyza Nur Özdemir
+- Aslı Asutay
+- Ayşe Nurefşan Gültekin
+- Mine Emektar
